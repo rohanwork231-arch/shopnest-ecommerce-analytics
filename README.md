@@ -137,7 +137,6 @@ Shop Nest, an online marketplace, was experiencing rapid growth but lacked unifi
 
 | File/Folder | Description |
 |-------------|-------------|
-| `ShopNest_Dashboard.pbix` | Complete Power BI dashboard file |
 | `Visuals` | Sales performance and operational analysis dashboard screenshot |
 | `README.md` | Project documentation |
 
